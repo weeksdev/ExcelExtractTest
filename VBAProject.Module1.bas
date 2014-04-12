@@ -9,4 +9,5 @@ End Sub
 Sub ModuleCodeTwo()
     'Adding for additional changes and second commit
     'Note that the code gets diffed!
+    'Adding additional note to diff
 End Sub
