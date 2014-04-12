@@ -6,3 +6,7 @@ Sub ModuleCode()
     Loop
     'Code for module added
 End Sub
+Sub ModuleCodeTwo()
+    'Adding for additional changes and second commit
+    'Note that the code gets diffed!
+End Sub
